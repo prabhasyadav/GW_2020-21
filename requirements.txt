@@ -1,0 +1,10 @@
+ 
+numpy
+matplotlib
+scipy
+panel
+ipysheet
+pandas
+rise
+jupyter-contrib-nbextensions
+ipywidgets
