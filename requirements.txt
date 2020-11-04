@@ -8,3 +8,4 @@ pandas
 rise
 jupyter-contrib-nbextensions
 ipywidgets
+warning
